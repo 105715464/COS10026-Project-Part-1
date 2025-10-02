@@ -67,3 +67,25 @@ body {
 .navbar a {
     color: white;
 }
+/* footer */
+.footer{
+    background-color: #c40000;
+    color: white;
+    padding: 10px;
+}
+/* Table in about */
+table{
+    border: 3px solid black;
+    border-collapse: collapse; /* makes single border instead of double */
+    padding: 8px;
+}
+thead th{
+  border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+}
+tr td{
+  border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+}
